@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498/9ff1b43bc8d74a0f90ab9a5743452bd3/artifacts
+end_time: 1780074344200
+entry_point_name: ''
+experiment_id: '406037047475496498'
+lifecycle_stage: active
+run_id: 9ff1b43bc8d74a0f90ab9a5743452bd3
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780074340686
+status: 3
+tags: []
+user_id: lguzs

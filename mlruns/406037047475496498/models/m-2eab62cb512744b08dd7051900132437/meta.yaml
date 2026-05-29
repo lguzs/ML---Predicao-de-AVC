@@ -1,0 +1,10 @@
+artifact_location: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498/models/m-2eab62cb512744b08dd7051900132437/artifacts
+creation_timestamp: 1780075397146
+experiment_id: '406037047475496498'
+last_updated_timestamp: 1780075400682
+model_id: m-2eab62cb512744b08dd7051900132437
+model_type: null
+name: model
+source_run_id: 35c2bccabe82400a8f3c4d58bda28b21
+status: 2
+status_message: null

@@ -1,0 +1,20 @@
+services:
+  api:
+    build: .
+    container_name: stroke_api
+    working_dir: /home/lguzs/Documents/Desafio01
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/home/lguzs/Documents/Desafio01
+    command: uvicorn src.api:app --host 0.0.0.0 --port 8000
+
+  mlflow-ui:
+    build: .
+    container_name: stroke_mlflow_ui
+    working_dir: /home/lguzs/Documents/Desafio01
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/home/lguzs/Documents/Desafio01
+    command: mlflow ui --backend-store-uri file:/home/lguzs/Documents/Desafio01/mlruns --host 0.0.0.0 --port 5000

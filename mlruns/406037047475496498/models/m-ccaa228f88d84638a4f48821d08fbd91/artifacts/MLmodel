@@ -1,0 +1,23 @@
+artifact_path: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498/models/m-ccaa228f88d84638a4f48821d08fbd91/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-ccaa228f88d84638a4f48821d08fbd91
+model_size_bytes: 5879236
+model_uuid: m-ccaa228f88d84638a4f48821d08fbd91
+prompts: null
+run_id: 9ff1b43bc8d74a0f90ab9a5743452bd3
+utc_time_created: '2026-05-29 17:05:40.728163'

@@ -1,0 +1,16 @@
+creation_timestamp: 1780075232671
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1780075232671
+model_id: null
+name: previsor_avc_stroke
+run_id: 3c27e1c5fccb4339aab126247a59a058
+run_link: null
+source: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498/3c27e1c5fccb4339aab126247a59a058/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498/3c27e1c5fccb4339aab126247a59a058/artifacts/model
+user_id: null
+version: 1
+workspace: default

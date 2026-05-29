@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498/a1845bf805cc405986d7ff1fc3fa14e1/artifacts
+end_time: 1780074340009
+entry_point_name: ''
+experiment_id: '406037047475496498'
+lifecycle_stage: active
+run_id: a1845bf805cc405986d7ff1fc3fa14e1
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780074336521
+status: 3
+tags: []
+user_id: lguzs

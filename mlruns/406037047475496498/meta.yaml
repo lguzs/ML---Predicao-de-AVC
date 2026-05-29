@@ -1,0 +1,8 @@
+artifact_location: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498
+creation_time: 1780074331077
+experiment_id: '406037047475496498'
+last_update_time: 1780074331077
+lifecycle_stage: active
+name: stroke_prediction
+trace_location: null
+workspace: default

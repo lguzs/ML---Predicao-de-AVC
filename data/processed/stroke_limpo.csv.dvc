@@ -1,0 +1,5 @@
+outs:
+- md5: fb6c3c3b18987d59b282a3a7a1ff6360
+  size: 297526
+  hash: md5
+  path: stroke_limpo.csv

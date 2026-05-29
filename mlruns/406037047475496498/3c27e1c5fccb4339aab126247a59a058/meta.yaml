@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lguzs/Documents/Desafio01/notebooks/../mlruns/406037047475496498/3c27e1c5fccb4339aab126247a59a058/artifacts
+end_time: 1780075148731
+entry_point_name: ''
+experiment_id: '406037047475496498'
+lifecycle_stage: active
+run_id: 3c27e1c5fccb4339aab126247a59a058
+run_name: LogisticRegression_Tuned_Final
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780075145342
+status: 3
+tags: []
+user_id: lguzs
